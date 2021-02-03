@@ -1,2 +1,3 @@
-# Tindog_responsive
-Complete web using bootsrap
+# BootStrap
+Taking idea from anathor webSite and creating a full responsive webPage using BootStrap Libraries and CSS
+
